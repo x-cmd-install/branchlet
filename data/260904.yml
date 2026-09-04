@@ -7,7 +7,7 @@ about:
   head: 10c7b8a
   archived: false
   latestVersion: v1.0.0
-  collectedAt: 2026-09-04T19:41:43Z
+  collectedAt: 2026-09-04T20:55:57Z
 timeline:
   created: 2025-08-20
   lastCommit: 2026-04-13
@@ -81,5 +81,38 @@ total:
   openIssue: 1
   commit: 161
 ---
+path: /home/runner/.x-repo/github.com/raghavpillai/branchlet
+collectedAt: 2026-09-04T20:55:57Z
+loc:
+  TypeScript:
+    code: 5230
+    comments: 195
+    blanks: 972
+    files: 51
+  Tsx:
+    code: 2542
+    comments: 10
+    blanks: 321
+    files: 20
+  Json:
+    code: 198
+    comments: 0
+    blanks: 0
+    files: 4
+  Toml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 107
+    blanks: 47
+    files: 1
+total:
+  code: 8017
+  comments: 319
+  blanks: 1345
+  files: 77
 ---
 
