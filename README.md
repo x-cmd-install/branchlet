@@ -37,7 +37,7 @@ Total: **7,973** lines of code across **77** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 496 · **Forks**: 28 · **Open issues**: 20 · **Contributors**: 8
+- **Stars**: 497 · **Forks**: 28 · **Open issues**: 20 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for branchlet lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:43:04Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:26:28Z._
