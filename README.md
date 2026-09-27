@@ -37,7 +37,7 @@ Total: **7,973** lines of code across **77** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 500 · **Forks**: 28 · **Open issues**: 20 · **Contributors**: 8
+- **Stars**: 500 · **Forks**: 29 · **Open issues**: 20 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,973** lines of code across **77** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-30 | 0 | 3 | 1 | 4 | 1 | 8 |
-| 360d | 2025-10-01 | 14 | 19 | 1 | 16 | 1 | 61 |
-| last720d | 2024-10-06 | 14 | 21 | 1 | 19 | 1 | 161 |
+| 30d | 2026-08-28 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-31 | 0 | 3 | 1 | 4 | 1 | 7 |
+| 360d | 2025-10-02 | 14 | 19 | 1 | 16 | 1 | 61 |
+| last720d | 2024-10-07 | 14 | 21 | 1 | 19 | 1 | 161 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for branchlet lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:58:57Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:17:45Z._
